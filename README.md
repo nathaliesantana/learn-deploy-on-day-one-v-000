@@ -54,7 +54,7 @@ The first thing you'll need to do is add your image assets.
 **Since we have tons of awesome students on Learn, adding all the images to our project would result in a behemoth sized repository. So instead of adding them to our project, we will be uploading our images to imgur.com (a free image hosting site), and linking to the images respective URLs in our css file.**
 
   * Upload your cover and profile pictures to imgur (they should be jpg or png files):
-    * Head to <a href="http://imgur.com/" target="_blank">imgur.com</a>
+    * Head to <a href="http://imgur.com/"target="blank" >imgur.com</a>
     * click on the blue 'Upload images' button on the top of the page
     * You can then drag and drop the cover, and profile images to that page, or use the 'browse your computer option to find them manually'
     * Click on the 'Start Upload' button to upload the images
@@ -66,7 +66,7 @@ The first thing you'll need to do is add your image assets.
    * Head to the `css/styles.css` file.
    * check out some students css in the file to see what you'll need to do.
 
-  It should look something like these 
+  It should look something like these
 
   ```css
     #firstname-lastname-cover {
